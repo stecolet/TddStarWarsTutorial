@@ -1,8 +1,0 @@
-INDEX VERSION 1.127+C:\git-project\TddStarWarsTutorial\.metadata\.plugins\org.eclipse.jdt.core
-318604548.index
-4243842088.index
-1170917859.index
-1710929298.index
-3703806041.index
-4221444145.index
-2348078270.index
