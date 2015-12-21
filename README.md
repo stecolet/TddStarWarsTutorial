@@ -2,7 +2,7 @@
 A simple Star Wars tutorial who evidences the main TDD development steps.
 
 
-Ih this Tutorial you can find six ajva project (based on JUnit). Each of them desribe the main TDD red/green/refactoring cycle. Please see "Test Driven Development By Example" by Kent Back.
+Ih this Tutorial you can find six ajva project (based on JUnit). Each of them desribe the main TDD red/green/refactoring cycle. Please see "Test Driven Development By Example" by Kent Back for more theorycal details.
 
 - The first project showes which test units are created from the requirement. There are three kinds of test: Precondition, PostCondition and Business. Another test unit category is introduced later at the Refactoring stage.
 
